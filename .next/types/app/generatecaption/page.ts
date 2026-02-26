@@ -1,4 +1,4 @@
-// File: C:\Users\MY PC\Documents\IMCU - Copy\my-app\src\app\generatecaption\page.tsx
+// File: C:\Users\godai\OneDrive\Documents\IMCU\src\app\generatecaption\page.tsx
 import * as entry from '../../../../src/app/generatecaption/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
